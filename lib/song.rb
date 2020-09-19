@@ -8,5 +8,7 @@ class Song
 
   end
 
+  def song_count.count
+
 
 end
