@@ -21,11 +21,11 @@ class Song
     @@count
   end
 
-  def self.artist
+  def self.artists
     @@artists.unique
   end
 
-  def self.genre
+  def self.genres
     @@genres.unique
   end
 
