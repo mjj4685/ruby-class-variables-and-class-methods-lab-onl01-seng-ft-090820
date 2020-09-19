@@ -22,11 +22,11 @@ class Song
   end
 
   def self.artist
-    @@count
+    @@artists
   end
 
   def self.genre
-    @@count
+    @@genres
   end
 
 
